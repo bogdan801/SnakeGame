@@ -1,0 +1,34 @@
+﻿  game.cpp
+C:\projects\Snake\Snake\game.cpp(19,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projects\Snake\Snake\game.cpp(19,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projects\Snake\Snake\game.cpp(46,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\projects\Snake\Snake\game.cpp(60,5): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\projects\Snake\Snake\game.cpp(75,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projects\Snake\Snake\game.cpp(75,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projects\Snake\Snake\game.cpp(125,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projects\Snake\Snake\game.cpp(125,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Snake.vcxproj -> C:\projects\Snake\x64\Debug\Snake.exe
